@@ -1,9 +1,12 @@
 body {
 	width: 700px;
+	background: url("flocon.jpg") fixed repeat-x bottom;
 }
 h1 {
 	font-size: 2em;
 	text-align: center;
-	color: #F60;
-	text-shadow: 3px 3px 12px;
+	color: #00F;
+	text-shadow: 2px 2px 9px;
+	border-style: outset;
+    border-radius: 5px;
 }
