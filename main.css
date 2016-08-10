@@ -1,0 +1,9 @@
+body {
+	width: 700px;
+}
+h1 {
+	font-size: 2em;
+	text-align: center;
+	color: #F60;
+	text-shadow: 3px 3px 12px;
+}
